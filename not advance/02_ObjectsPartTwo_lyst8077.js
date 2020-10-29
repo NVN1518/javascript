@@ -16,3 +16,5 @@ var sam = Object.create(User, {
 });
 
 sam.getUserName();
+console.log(sam.name);
+console.log(sam.courseCount);
